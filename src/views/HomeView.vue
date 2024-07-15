@@ -7,8 +7,7 @@ const getUrl = (name) => {
 
 </script>
 
-<template>
-  <div>
+<template> 
     <section class="banner">
       <div class="container">
         <div class="banner-item">
@@ -67,6 +66,5 @@ const getUrl = (name) => {
           </router-link>
         </div>
       </div>
-    </section>
-  </div>
+    </section>  
 </template>

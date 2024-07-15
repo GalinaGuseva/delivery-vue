@@ -33,14 +33,6 @@ const openModal = () => emit('toggleModal');
   align-items: center;
 }
 
-.container {
-  max-width: 1230px;
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  padding: 0 15px;
-}
-
 .header-box {
   height: 100%;
   display: flex;
